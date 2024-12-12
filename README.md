@@ -1,0 +1,2 @@
+# TypeScript Type Assertion Error
+This repository demonstrates a common type assertion error in TypeScript where a string is assigned to a number variable.  The code compiles successfully because of a type assertion but throws a runtime error. The solution shows how to correctly handle this situation by using type guards or more robust type checking.
